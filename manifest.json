@@ -1,0 +1,37 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "pack.name",
+    "description": "pack.description",
+    "min_engine_version": [
+      1,
+      21,
+      112
+    ],
+    "uuid": "dcada0a0-950d-46f6-85ed-6470d476c3e8",
+    "version": [
+      1,
+      0,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "Resources Module",
+      "type": "resources",
+      "uuid": "efcba199-07b6-4297-ab91-29e23bb77d67",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "Smell of curry"
+    ],
+    "license": "./LICENSE.md",
+    "url": "https://pokebedrock.com"
+  }
+}
