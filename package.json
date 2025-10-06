@@ -1,22 +1,19 @@
 {
   "name": "pokebedrock-hub-res",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Welcome to the PokeBedrock Hub Resource Pack repository!",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "main": "scripts/build.ts",
+  "keywords": ["pokebedrock", "minecraft", "assets", "bedrock"],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/smell-of-curry/pokebedrock-hub-res#readme",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/smell-of-curry/pokebedrock-hub-res.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "bugs": {
     "url": "https://github.com/smell-of-curry/pokebedrock-hub-res/issues"
   },
-  "homepage": "https://github.com/smell-of-curry/pokebedrock-hub-res#readme",
   "devDependencies": {
     "@types/archiver": "^6.0.3",
     "@types/fs-extra": "^11.0.4",
