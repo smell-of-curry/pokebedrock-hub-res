@@ -3,7 +3,12 @@
   "version": "1.0.2",
   "description": "Welcome to the PokeBedrock Hub Resource Pack repository!",
   "main": "scripts/build.ts",
-  "keywords": ["pokebedrock", "minecraft", "assets", "bedrock"],
+  "keywords": [
+    "pokebedrock",
+    "minecraft",
+    "assets",
+    "bedrock"
+  ],
   "author": "",
   "license": "ISC",
   "homepage": "https://github.com/smell-of-curry/pokebedrock-hub-res#readme",
